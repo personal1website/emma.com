@@ -75,7 +75,7 @@ header {
     text-transform: uppercase;
     letter-spacing: 5px;
     color: black;
-    text-shadow: 0 0 10px #ed4242, 0 0 20px #e13636;
+    text-shadow: 0 0 60px #ff4bcc, 0 0 20px #ff4bcc;
     margin-bottom: 10px;
  animation: float 2s ease-in-out infinite;
 }
